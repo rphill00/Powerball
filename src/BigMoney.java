@@ -2,12 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class BigMoney {
-
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		// Create the random number generator
 		ArrayList<Integer> retValues = new ArrayList<Integer>();
 		StringBuilder sb = new StringBuilder();
